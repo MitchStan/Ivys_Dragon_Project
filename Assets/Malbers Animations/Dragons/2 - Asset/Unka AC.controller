@@ -298,7 +298,6 @@ MonoBehaviour:
     IgnoreLowerStates: 0
     LockMovement: 0
     LockInput: 0
-    Colliders: 0
   ExitModifier:
     modify: 0
     RootMotion: 0
@@ -313,7 +312,6 @@ MonoBehaviour:
     IgnoreLowerStates: 0
     LockMovement: 0
     LockInput: 0
-    Colliders: 0
 --- !u!114 &114067705273766386
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -681,8 +679,8 @@ MonoBehaviour:
   sounds:
   - {fileID: 8300000, guid: 3dfc40c3621fb004ba2ba9d2e6f682d7, type: 3}
   playOnEnter: 1
-  playOnTime: 0
   stopOnExit: 0
+  playOnTime: 0
   NormalizedTime: 0.5
   pitch: 1
   volume: 1
@@ -1399,8 +1397,8 @@ MonoBehaviour:
   sounds:
   - {fileID: 8300000, guid: 3dfc40c3621fb004ba2ba9d2e6f682d7, type: 3}
   playOnEnter: 1
-  playOnTime: 0
   stopOnExit: 0
+  playOnTime: 0
   NormalizedTime: 0.5
   pitch: 1.22
   volume: 1
@@ -13401,7 +13399,7 @@ AnimatorStateMachine:
     m_Position: {x: 180, y: 192, z: 0}
   - serializedVersion: 1
     m_StateMachine: {fileID: 1107070459965775536}
-    m_Position: {x: 180, y: 144, z: 0}
+    m_Position: {x: 180, y: 140, z: 0}
   - serializedVersion: 1
     m_StateMachine: {fileID: 1107235611564023184}
     m_Position: {x: 180, y: 48, z: 0}
