@@ -31,20 +31,15 @@ MonoBehaviour:
       scripts and components that make up the mechanics in this controller. Find what
       this controller does here:'
     linkText: Manual
-    url: https://docs.google.com/document/d/1QBLQVWcDSyyWBDrrcS2PthhsToWkOayU0HUtiiSWTF8/edit?usp=sharing
+    url: https://malbersanimations.gitbook.io/animal-controller/
   - heading: Render Piplelines
-    text: If you are using LWRPL, URPL or HRPL Please go to the Integration Folder
-      and download the Shader version for the Render pipeline you are using
-    linkText: Light Weight Render Pipeline Shaders
-    url: https://drive.google.com/open?id=17OvVLW8X6twCon75m7ir3l4TlpApntkB
+    text: Go to Tools -> Malbers Animations -> Upgrade Malbers Shaders to URPL
+    linkText: 
+    url: 
   - heading: 
-    text: 
-    linkText: High Render Pipeline Shaders
-    url: https://drive.google.com/open?id=1Q5p0CDT43sn62lUa3-zFPmE_pt9PgCYX
-  - heading: 
-    text: 
-    linkText: Universal Render Pipeline Shaders
-    url: https://drive.google.com/open?id=1-dBD0l7X_bPb_FxyUXAFxcatCNj3rXWG
+    text: Go to Tools -> Malbers Animations -> Upgrade Malbers Shaders to HRPL
+    linkText: 
+    url: 
   - heading: Integrations
     text: All Malbers Assets have integrations with the most popular Assets on the
       Store. More are being added constantly
@@ -73,7 +68,7 @@ MonoBehaviour:
     linkText: Malbers Animations
     url: https://www.facebook.com/MalberSAnimations
   - heading: 
-    text: Follow me on Twitter to stay tunned for new updates
+    text: Follow me on Twitter to stay tuned for new updates
     linkText: Twitter
     url: https://twitter.com/MalberShark
   - heading: 
