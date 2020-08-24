@@ -3,7 +3,18 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Climb
+  - Fly
+  - Water
+  - Animal
+  - Stair
+  - LB Combined Mesh
+  - LB Combined Group Mesh
+  - LB Rain Particles
+  - LB Hail Particles
+  - LB Snow Particles
+  - Obstacle
   layers:
   - Default
   - TransparentFX
@@ -25,17 +36,17 @@ TagManager:
   - 
   - 
   - 
+  - Animal
+  - 
+  - 
+  - Enemy
+  - 
+  - LB Celestials
   - 
   - 
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Item
   - 
   m_SortingLayers:
   - name: Default
